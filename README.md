@@ -1,4 +1,4 @@
- [![MasterHead](https://www.canva.com/design/DAF4ZCe1N4c/view)
+
 
 <h1 align="center">Hi 👋, I'm Caner Durmaz</h1>
 <h3 align="center">A passionate backend developer from Nederland</h3>
